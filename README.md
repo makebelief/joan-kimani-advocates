@@ -19,3 +19,7 @@ The contact form opens an email composition, and WhatsApp links to 254716337451.
 
 ### 2026 Reference-layout revision
 The full hero image now sits behind overlaid text and uses a licensed-for-free-use Pexels image of Black legal professionals. The WhatsApp icon mirrors the small circular fixed control on the reference site. Header logo uses `assets/joan-kimani-logo-transparent-4k.png` (3840 pixels wide). Footer uses `assets/joan-kimani-logo-footer-4k.png` (3840 pixels wide) to retain transparent background and show white lettering on navy. The white background variant is also included. Photos are requested directly from Pexels over HTTPS and require internet access.
+
+
+### Distinct images and WhatsApp fix
+22 different Pexels photo IDs are mapped to the hero, about photo, 6 home practice tiles, 3 insight cards, and 11 practice-area pages. See `PHOTO-SOURCES.md`. No repeated stock images in these placements. The only intentionally repeated photograph is the firm's advocate portrait: once on the homepage, once on the Our Advocate page. The old floating WhatsApp pill was removed, leaving one round, SVG-only, Were-style WhatsApp button. Its number is +254 716 337 451.
